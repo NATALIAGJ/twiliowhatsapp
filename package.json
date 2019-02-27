@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/NATALIAGJ/twiliowhatsapp#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "twilio": "^3.28.1"
   }
 }
