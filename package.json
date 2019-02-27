@@ -1,0 +1,28 @@
+{
+  "name": "twiliowhatsapp",
+  "version": "0.1.0",
+  "description": "Aplicación para el envio de mensajes a whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "npm run index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NATALIAGJ/twiliowhatsapp.git"
+  },
+  "keywords": [
+    "chat",
+    "twilio",
+    "whatsapp"
+  ],
+  "author": "Natalia Gonzalez Junco <github:NATALIAGJ>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NATALIAGJ/twiliowhatsapp/issues"
+  },
+  "homepage": "https://github.com/NATALIAGJ/twiliowhatsapp#readme",
+  "dependencies": {
+    "twilio": "^3.28.1"
+  }
+}
